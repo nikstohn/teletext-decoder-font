@@ -13746,20 +13746,11 @@ unicode = 180;
 },
 {
 glyphname = circumflex;
-lastChange = "2026-07-19 15:54:40 +0000";
+lastChange = "2026-07-19 17:32:19 +0000";
 layers = (
 {
 layerId = m001;
 shapes = (
-{
-closed = 1;
-nodes = (
-(0,-409,l),
-(1535,-409,l),
-(1535,-614,l),
-(0,-614,l)
-);
-},
 {
 closed = 1;
 nodes = (
