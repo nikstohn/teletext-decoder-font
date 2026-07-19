@@ -1,10 +1,6 @@
 {
 .appVersion = "3436";
 .formatVersion = 3;
-DisplayStrings = (
-"Ó",
-Y
-);
 customParameters = (
 {
 name = note;
